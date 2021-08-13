@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .first-block {
-  background: url(/img/block_1.png) 0 0/cover no-repeat;
+  background: url(/grand-theatre/img/block_1.png) 0 0/cover no-repeat;
   background-position: center;
   color: white;
   display: flex;
@@ -415,7 +415,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 0;
 }
 .decree .image-slider__item {
-  background-image: url(/img/block_3_img1.png);
+  background-image: url(/grand-theatre/img/block_3_img1.png);
   width: 442px;
   height: 550px;
   opacity: 0.4;
@@ -453,7 +453,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 .decree .image-slider__item3 {
-  background-image: url(/img/block_3_img3.png);
+  background-image: url(/grand-theatre/img/block_3_img3.png);
   width: 442px;
   height: 550px;
   opacity: 0.4;
@@ -472,7 +472,7 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 .decree .image-slider__item4 {
-  background-image: url(/img/block_3_img4.png);
+  background-image: url(/grand-theatre/img/block_3_img4.png);
   width: 442px;
   height: 550px;
   opacity: 0.4;
@@ -543,7 +543,7 @@ h1, h2, h3, h4, h5, h6 {
 .stars__row {
   display: flex;
   justify-content: space-between;
-  background: url(/img/block_4.png) 0 0/cover no-repeat;
+  background: url(/grand-theatre/img/block_4.png) 0 0/cover no-repeat;
   background-position: center;
 }
 .stars__items {
